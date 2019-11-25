@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		" I ",
+		"ISI",
+		" I "
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "S": {
+           "item": "minecraft:stone",
+		   "data": 0
+       }
+	},
+	"result": {
+	   "item": "sm:metallic_shell",
+	   "count": 1
+	}
+}

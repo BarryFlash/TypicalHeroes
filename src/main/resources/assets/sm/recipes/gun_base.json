@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"III",
+		"IPI",
+		" BI"
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "B": {
+           "item": "minecraft:stone_button"
+       },
+	   "P": {
+           "item": "minecraft:piston"
+       }
+	},
+	"result": {
+	   "item": "sm:gun_base",
+	   "count": 1
+	}
+}

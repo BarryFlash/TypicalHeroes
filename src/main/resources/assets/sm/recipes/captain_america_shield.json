@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"VLV",
+		"VIV",
+		"VRV"
+	],
+	"key": {
+	   "L": {
+           "item": "minecraft:lapis_block"
+       },
+	   "V": {
+           "item": "sm:vibranium_plate"
+       },
+	   "I": {
+           "item": "minecraft:iron_block"
+       },
+	   "R": {
+           "item": "minecraft:redstone_block"
+       }
+	},
+	"result": {
+	   "item": "sm:cap_shield",
+	   "count": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+	   "VVV",
+	   "VVV"
+	],
+	"key": {
+       "V": {
+           "item": "sm:vibranium"
+       }
+	},
+	"result": {
+	   "item": "sm:vibranium_plate",
+	   "count": 1
+	}
+}

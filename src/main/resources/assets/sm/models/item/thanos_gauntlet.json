@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"elements": [
+		{
+			"name": "cube",
+			"from": [7.5, 7.5, 7.5],
+			"to": [8.5, 8.5, 8.5],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 1, 1],
+					"texture": "#missing"
+				},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"south": {
+					"uv": [0, 0, 1, 1],
+					"texture": "#missing"
+				},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {"translation": [0, -1, 5]},
+		"thirdperson_lefthand": {"translation": [0, -1, 5]},
+		"firstperson_righthand": {"translation": [0, -5, 0]},
+		"firstperson_lefthand": {"translation": [0, -5, 0]},
+		"fixed": {
+			"scale": [1, 1, 1.075],
+			"translation": [0, 0, 1.5]
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "sm:batman_computer"
+		},
+		"facing=south": {
+			"model": "sm:batman_computer", "y": 180
+		},
+		"facing=east": {
+			"model": "sm:batman_computer", "y": 90
+		},
+		"facing=west": {
+			"model": "sm:batman_computer", "y": 270
+		},
+		"facing=up": {
+			"model": "sm:batman_computer"
+		},
+		"facing=down": {
+			"model": "sm:batman_computer"
+		}
+	}
+}

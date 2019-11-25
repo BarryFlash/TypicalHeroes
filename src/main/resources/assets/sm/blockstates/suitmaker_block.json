@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "sm:suitmaker_block"
+		},
+		"facing=south": {
+			"model": "sm:suitmaker_block", "y": 180
+		},
+		"facing=east": {
+			"model": "sm:suitmaker_block", "y": 90
+		},
+		"facing=west": {
+			"model": "sm:suitmaker_block", "y": 270
+		},
+		"facing=up": {
+			"model": "sm:suitmaker_block"
+		},
+		"facing=down": {
+			"model": "sm:suitmaker_block"
+		}
+	}
+}

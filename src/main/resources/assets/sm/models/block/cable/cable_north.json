@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "sm:blocks/cable_north",
+		"particle": "sm:blocks/cable_north"
+	},
+	"elements": [
+		{
+			"from": [6.5, 6.5, 0],
+			"to": [9.5, 9.5, 9.5],
+			"faces": {
+				"north": {"uv": [4.5, 4.5, 6, 6], "texture": "#0"},
+				"east": {"uv": [0, 4.5, 4.5, 6], "texture": "#0"},
+				"south": {"uv": [10.5, 4.5, 12, 6], "texture": "#0"},
+				"west": {"uv": [6, 4.5, 10.5, 6], "texture": "#0"},
+				"up": {"uv": [6, 4.5, 4.5, 0], "texture": "#0"},
+				"down": {"uv": [7.5, 0, 6, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 6, 6],
+			"to": [10, 10, 10],
+			"faces": {
+				"north": {"uv": [10.5, 4.5, 12, 6], "texture": "#0"},
+				"east": {"uv": [10.5, 4.5, 12, 6], "texture": "#0"},
+				"south": {"uv": [10.5, 4.5, 12, 6], "texture": "#0"},
+				"west": {"uv": [10.5, 4.5, 12, 6], "texture": "#0"},
+				"up": {"uv": [10.5, 4.5, 12, 6], "texture": "#0"},
+				"down": {"uv": [10.5, 4.5, 12, 6], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"AIA",
+		"AAA",
+		" A "
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "A": {
+           "item": "sm:amazonian_ingot"
+       }
+	},
+	"result": {
+	   "item": "sm:wonderwoman_shield",
+	   "count": 1
+	}
+}

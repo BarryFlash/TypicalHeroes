@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "sm:fuel_generator"
+		},
+		"facing=south": {
+			"model": "sm:fuel_generator", "y": 180
+		},
+		"facing=east": {
+			"model": "sm:fuel_generator", "y": 90
+		},
+		"facing=west": {
+			"model": "sm:fuel_generator", "y": 270
+		},
+		"facing=up": {
+			"model": "sm:fuel_generator"
+		},
+		"facing=down": {
+			"model": "sm:fuel_generator"
+		}
+	}
+}

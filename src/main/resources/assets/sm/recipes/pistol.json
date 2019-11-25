@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"III",
+		"DPI",
+		" BI"
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "B": {
+           "item": "minecraft:stone_button"
+       },
+	   "D": {
+           "item": "minecraft:dispenser"
+       },
+	   "P": {
+           "item": "sm:gun_base"
+       }
+	},
+	"result": {
+	   "item": "sm:gun",
+	   "count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+	   "DDD",
+	   "DSD",
+	   "DDD"
+	],
+	"key": {
+	   "S": {
+           "item": "minecraft:skull",
+		   "data": 0
+       },
+       "D": {
+           "item": "sm:kryptonian_dna"
+       }
+	},
+	"result": {
+	   "item": "sm:codex_block",
+	   "count": 1
+	}
+}

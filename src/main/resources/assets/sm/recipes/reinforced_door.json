@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"SS",
+		"SS",
+		"SS"
+	],
+	"key": {
+	   "S": {
+           "item": "sm:metallic_shell"
+       }
+	},
+	"result": {
+	   "item": "sm:reinforced_door",
+	   "count": 1
+	}
+}

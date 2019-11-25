@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"ILI",
+		"IDI",
+		"IPI"
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "L": {
+           "item": "minecraft:redstone_lamp"
+       },
+	   "D": {
+           "item": "minecraft:diamond"
+       },
+	   "P": {
+           "item": "minecraft:piston"
+       }
+	},
+	"result": {
+	   "item": "sm:compacter_block",
+	   "count": 1
+	}
+}

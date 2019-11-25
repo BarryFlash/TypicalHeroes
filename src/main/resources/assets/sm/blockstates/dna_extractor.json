@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:multi-layer",
+    "custom": {
+      "base": "sm:dna_extractor#base",
+      "Solid": "sm:dna_extractor#base",
+      "Translucent": "sm:dna_extractor#window"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "base": [{
+      "model": "sm:dna_extractor_base"
+    }],
+    "window": [{
+      "model": "sm:dna_extractor_window"
+    }]
+  }
+}

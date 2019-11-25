@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {
+			"model": "sm:smelting_crucible_block"
+		}
+	}
+}

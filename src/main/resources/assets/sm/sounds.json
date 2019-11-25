@@ -1,0 +1,72 @@
+{
+	"abilities.shrink": {
+		"category": "abilities",
+		"subtitle": "abilities.shrink",
+		"sounds": [ { "name": "sm:abilities/shrink", "stream":true } ]
+		},
+	"abilities.repulsorcharge": {
+		"category": "abilities",
+		"subtitle": "abilities.repulsorcharge",
+		"sounds": [ { "name": "sm:abilities/repulsorcharge", "stream":true } ]
+		},
+	"abilities.repulsor": {
+		"category": "abilities",
+		"subtitle": "abilities.repulsor",
+		"sounds": [ { "name": "sm:abilities/repulsor", "stream":true } ]
+		},
+	"abilities.heatvision": {
+		"category": "abilities",
+		"subtitle": "abilities.heatvision",
+		"sounds": [ { "name": "sm:abilities/heatvision", "stream":true } ]
+		},
+	"abilities.suit": {
+		"category": "abilities",
+		"subtitle": "abilities.suit",
+		"sounds": [ { "name": "sm:abilities/suit", "stream":true } ]
+		},
+	"abilities.throw": {
+		"category": "abilities",
+		"subtitle": "abilities.throw",
+		"sounds": [ { "name": "sm:abilities/throw", "stream":true } ]
+		},
+	"abilities.gadgetswitch": {
+		"category": "abilities",
+		"subtitle": "abilities.gadgetswitch",
+		"sounds": [ { "name": "sm:abilities/gadgetswitch", "stream":true } ]
+		},
+	"abilities.braceletblast": {
+		"category": "abilities",
+		"subtitle": "abilities.braceletblast",
+		"sounds": [ { "name": "sm:abilities/braceletblast", "stream":true } ]
+		},
+	"abilities.beep": {
+		"category": "abilities",
+		"subtitle": "abilities.beep",
+		"sounds": [ { "name": "sm:abilities/beep", "stream":true } ]
+		},
+	"abilities.shield_throw": {
+		"category": "abilities",
+		"subtitle": "abilities.shield_throw",
+		"sounds": [ { "name": "sm:abilities/shield_throw", "stream":true } ]
+		},
+	"abilities.shield_hit": {
+		"category": "abilities",
+		"subtitle": "abilities.shield_hit",
+		"sounds": [ { "name": "sm:abilities/shield_hit", "stream":true } ]
+		},
+	"abilities.lightning": {
+		"category": "abilities",
+		"subtitle": "abilities.lightning",
+		"sounds": [ { "name": "sm:abilities/lightning", "stream":true } ]
+		},
+	"abilities.pistolshot": {
+		"category": "abilities",
+		"subtitle": "abilities.pistolshot",
+		"sounds": [ { "name": "sm:abilities/pistolshot", "stream":true } ]
+		},
+	"abilities.pistolreload": {
+		"category": "abilities",
+		"subtitle": "abilities.pistolreload",
+		"sounds": [ { "name": "sm:abilities/pistolreload", "stream":true } ]
+		}
+}

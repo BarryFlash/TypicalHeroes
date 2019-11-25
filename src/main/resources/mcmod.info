@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sm",
+  "name": "TypicalHeroes",
+  "description": "Adds superheroes from Marvel and DC",
+  "version": "1.0.2, MC version 1.12.2",
+  "mcversion": "1.12.2",
+  "url": "https://minecraft.curseforge.com/projects/typicalheroes",
+  "updateUrl": "",
+  "authorList": ["BarryFlash"],
+  "credits": "tikobiko333, BizarroDC, Batzgamer",
+  "logoFile": "TypicalHeroesLogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

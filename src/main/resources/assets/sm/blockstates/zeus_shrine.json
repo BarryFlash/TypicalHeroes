@@ -1,0 +1,8 @@
+{
+	"variants": {
+        "facing=north": { "model": "sm:zeus_shrine" },
+        "facing=south": { "model": "sm:zeus_shrine", "y": 180 },
+        "facing=west":  { "model": "sm:zeus_shrine", "y": 270 },
+        "facing=east":  { "model": "sm:zeus_shrine", "y": 90 }
+    }
+}

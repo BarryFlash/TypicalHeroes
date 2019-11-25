@@ -1,0 +1,8 @@
+{
+	"variants": {
+        "facing=north": { "model": "sm:codex_block" },
+        "facing=south": { "model": "sm:codex_block", "y": 180 },
+        "facing=west":  { "model": "sm:codex_block", "y": 270 },
+        "facing=east":  { "model": "sm:codex_block", "y": 90 }
+    }
+}

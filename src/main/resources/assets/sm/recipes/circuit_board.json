@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+	   "IR",
+	   "RT"
+	],
+	"key": {
+	   "I": {
+	       "item": "minecraft:iron_ingot"
+	   },
+	   "R": {
+           "item": "minecraft:redstone"
+       },
+       "T": {
+           "item": "sm:titanium_ingot"
+       }
+	},
+	"result": {
+	   "item": "sm:circuit_board",
+	   "count": 1
+	}
+}

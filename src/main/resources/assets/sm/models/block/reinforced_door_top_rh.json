@@ -1,0 +1,7 @@
+{
+	"parent": "block/door_top_rh",
+	"textures": {
+		"bottom": "sm:blocks/fusion_chamber_door_bottom",
+		"top": "sm:blocks/fusion_chamber_door_top"
+	}
+}

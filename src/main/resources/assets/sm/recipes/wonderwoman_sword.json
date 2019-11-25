@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"A",
+		"A",
+		"S"
+	],
+	"key": {
+	   "S": {
+           "item": "minecraft:stick"
+       },
+	   "A": {
+           "item": "sm:amazonian_ingot"
+       }
+	},
+	"result": {
+	   "item": "sm:wonderwoman_sword",
+	   "count": 1
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"I I",
+		"B B",
+		"I I"
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "B": {
+           "item": "minecraft:blaze_rod"
+       }
+	},
+	"result": {
+	   "item": "sm:electric_baton",
+	   "count": 2
+	}
+}

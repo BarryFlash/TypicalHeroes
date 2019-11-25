@@ -1,0 +1,64 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"0": "sm:items/infinity_stones",
+		"particle": "sm:items/infinity_stones"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [6.68, 2, 6.68],
+			"to": [9.32, 4.640000000000001, 9.32],
+			"faces": {
+				"north": {
+					"uv": [4.75, 4.25, 6.25, 6.125],
+					"texture": "#0",
+					"rotation": 180
+				},
+				"east": {
+					"uv": [6.125, 5.25, 7.625, 7.125],
+					"texture": "#0",
+					"rotation": 180
+				},
+				"south": {
+					"uv": [4.75, 6, 6.25, 7.875],
+					"texture": "#0",
+					"rotation": 180
+				},
+				"west": {
+					"uv": [6.5, 4.5, 8, 6.375],
+					"texture": "#0",
+					"rotation": 180
+				},
+				"up": {
+					"uv": [6.5, 5.875, 8, 7.75],
+					"texture": "#0",
+					"rotation": 180
+				},
+				"down": {
+					"uv": [5.25, 4.875, 6.75, 6.75],
+					"texture": "#0",
+					"rotation": 180
+				}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {"translation": [0, 5.5, 0]},
+		"thirdperson_lefthand": {"translation": [0, 5.5, 0]},
+		"firstperson_righthand": {
+			"translation": [2, 7, -0.5]
+		},
+		"firstperson_lefthand": {"translation": [2, 7, 0]},
+		"ground": {"translation": [0, 2.5, 0]},
+		"fixed": {
+			"scale": [2, 2, 2],
+			"translation": [0, 9, 1]
+		},
+		"gui": {
+			"scale": [1.15, 1.15, 1.15],
+			"translation": [0, 5, 0],
+			"rotation": [22, 44, 0]
+		}
+	}
+}

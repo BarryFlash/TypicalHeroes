@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+	   "II",
+	   "CR"
+	],
+	"key": {
+	   "I": {
+	       "item": "minecraft:iron_block"
+	   },
+	   "R": {
+           "item": "minecraft:redstone_block"
+       },
+       "C": {
+           "item": "minecraft:crafting_table"
+       }
+	},
+	"result": {
+	   "item": "sm:suitmaker_block",
+	   "count": 1
+	}
+}

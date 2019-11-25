@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "forge:fluid"
+    },
+    "variants": {
+        "molten_titanium": [{
+            "custom": { "fluid": "molten_titanium" }
+        }],
+        "molten_gold": [{
+            "custom": { "fluid": "molten_gold" }
+        }],
+		"molten_titaniumgold": [{
+            "custom": { "fluid": "molten_titaniumgold" }
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+	   "CNC",
+	   "NDN",
+	   "CNC"
+	],
+	"key": {
+	   "C": {
+	       "item": "sm:circuit_board"
+	   },
+	   "D": {
+           "item": "minecraft:diamond"
+       },
+       "N": {
+           "item": "sm:titaniumgold_nanoparticles"
+       }
+	},
+	"result": {
+	   "item": "sm:titaniumgold_nanotech",
+	   "count": 1
+	}
+}

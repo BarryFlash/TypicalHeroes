@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"ILI",
+		"GBG",
+		"IFI"
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "L": {
+           "item": "minecraft:iron_block"
+       },
+	   "G": {
+           "item": "minecraft:glass"
+       },
+	   "B": {
+           "item": "minecraft:iron_bars"
+       },
+	   "F": {
+           "item": "minecraft:furnace"
+       }
+	},
+	"result": {
+	   "item": "sm:dna_extractor",
+	   "count": 1
+	}
+}

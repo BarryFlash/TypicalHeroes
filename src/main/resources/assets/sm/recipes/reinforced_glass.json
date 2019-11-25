@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		" I ",
+		"ISI",
+		" I "
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "S": {
+           "item": "minecraft:glass"
+       }
+	},
+	"result": {
+	   "item": "sm:reinforced_glass",
+	   "count": 1
+	}
+}

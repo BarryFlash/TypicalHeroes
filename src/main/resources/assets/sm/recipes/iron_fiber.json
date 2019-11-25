@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+	   "TWT",
+	   "WTW",
+	   "TWT"
+	],
+	"key": {
+	   "T": {
+           "item": "minecraft:wool",
+		   "data": 0
+       },
+       "W": {
+           "item": "minecraft:iron_ingot"
+       }
+	},
+	"result": {
+	   "item": "sm:iron_fiber",
+	   "count": 8
+	}
+}

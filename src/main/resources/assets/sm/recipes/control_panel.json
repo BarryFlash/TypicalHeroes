@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"SBS",
+		"IRI",
+		"SIS"
+	],
+	"key": {
+	   "I": {
+           "item": "minecraft:iron_ingot"
+       },
+	   "S": {
+           "item": "sm:metallic_shell"
+       },
+	   "B": {
+           "item": "minecraft:stone_button"
+       },
+	   "R": {
+           "item": "minecraft:repeater"
+       }
+	},
+	"result": {
+	   "item": "sm:control_panel",
+	   "count": 1
+	}
+}
